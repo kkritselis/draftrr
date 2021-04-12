@@ -1,0 +1,23 @@
+footer {
+  // position: absolute;
+  // width: 100%;
+  // bottom: 0;
+  // left: 0;
+  background: #4f686f;
+  padding: 1.5em;
+  color: white;
+  display: flex;
+  flex-direction: row;
+}
+
+// .flex {
+//     display: flex;
+//     justify-content: space-between;
+//     align-items: center;
+// }
+
+.woodpeckerOnFooter {
+  position: absolute;
+  bottom: 0;
+  left: 90%;
+}
